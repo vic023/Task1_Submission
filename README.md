@@ -15,3 +15,5 @@ assumed that the base problem is 4 elements within the input vector.
 This implementation has been extended such that it can handle input vectors
 with more than 4 elements, and generates the circuit using Grover's algorithm
 on the address space.
+
+The program prints the resulting Quantum Circuit and the resulting simulation.
