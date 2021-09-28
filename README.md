@@ -1,9 +1,10 @@
 Requirements: Python 3.9, Qiskit 0.30
 
 To run from command line:
-python task1.py <input vector>
+python task1.py "input vector"
 
-Example <input vector>:
+The "input vector" should be a string of comma separated integer values with no
+spaces. Example "input vector":
 '10,3,2,5'
 '5,10,1,2'
 '2,3,4,5,10,6'
